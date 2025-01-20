@@ -14,7 +14,8 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-0D0D0D?style=for-the-badge&logo=Swagger) 
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![SQL](https://img.shields.io/badge/-MySQL-E6E6E6?style=for-the-badge&logo=MySQL) 
-![Java](https://img.shields.io/badge/-Java-B8281C?style=for-the-badge&logo=Java)   
+![Java](https://img.shields.io/badge/-Java-B8281C?style=for-the-badge&logo=Java)
+![Idea](https://img.shields.io/badge/-IntellijIdea-810EF2?style=for-the-badge&logo=Intellij) 
 
 ## Testing Documentation  
 - [Test-Cases](https://github.com/YuliyaKuzmina/Test-Docs)
