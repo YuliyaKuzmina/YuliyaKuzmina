@@ -19,11 +19,12 @@
 
 ## Testing Documentation  
 - [Test-Cases](https://github.com/YuliyaKuzmina/Test-Cases)  
-- [CheckLists](https://github.com/YuliyaKuzmina/CheckLists)
+- [CheckLists](https://github.com/YuliyaKuzmina/CheckLists)  
+- [Test-Plans](https://github.com/YuliyaKuzmina/Test-Plan)
 
 
 ## Follow me   
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/jojikkuzz) 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/%D1%8E%D0%BB%D0%B8%D1%8F-%D0%BA%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D0%BD%D0%B0-1445052a8/) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliyaKuzmina&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliyaKuzmina&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/YuliyaKuzmina/github-readme-stats)
