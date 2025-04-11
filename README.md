@@ -4,7 +4,7 @@
 
 ## I am manual tester and actively developing in QA Automation.   
 ### My CV  
-[Link to My CV](https://drive.google.com/file/d/1_Hk0sCLoNULcRRR6uVCP2NIliuL7SqJn/view?usp=drive_link)
+[Link to My CV](https://drive.google.com/file/d/1Xcyx5fpTcRZn6GpkOggh-P7C12wM_Sia/view?usp=sharing)
 
 ## Languages ang Tools  
 ![Jira](https://img.shields.io/badge/-Jira-434CD9?style=for-the-badge&logo=jira) 
