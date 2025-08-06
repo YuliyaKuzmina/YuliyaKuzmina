@@ -1,6 +1,6 @@
 
 
-[![Header](https://github.com/YuliyaKuzmina/YuliyaKuzmina/blob/main/assets/name2.png)](https://github.com/YuliyaKuzmina)
+[![Header](https://github.com/YuliyaKuzmina/YuliyaKuzmina/blob/main/assets/name3.png)](https://github.com/YuliyaKuzmina)
 
 ## I am manual tester and actively developing in QA Automation.   
 ### My CV  
